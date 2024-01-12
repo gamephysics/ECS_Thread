@@ -30,7 +30,7 @@ ECS 프로그래밍 만으로는 멀티 CPU 를 활용할 수 없으므로 Unity
 
 visual studio 2019 를 기반으로 컴파일되도록 작성하였습니다. 
 
-visual studio는 가장 최신버전으로 udpate를 하셔야 C++ 20의 기능을 사용하실 수 있습니다.
+visual studio는 가장 최신버전으로 update를 하셔야 C++ 20의 기능을 사용하실 수 있습니다.
 
 
 ## Description
